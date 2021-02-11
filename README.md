@@ -1,0 +1,2 @@
+# pymodoro
+Simple pomodoro timer
